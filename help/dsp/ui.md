@@ -1,16 +1,16 @@
 ---
-title: DSP帐户结构和用户界面
-description: 了解DSP帐户结构和用户界面。
+title: DSP帳戶結構與使用者介面
+description: 瞭解DSP帳戶結構和使用者介面。
 exl-id: c7786a04-a0ab-4ae6-8d5c-da68713f18d9
 source-git-commit: c299b88f75a62194bd22b2d220ab525045f78ea7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# 帐户结构和用户界面
+# 帳戶結構和使用者介面
 
-了解DSP广告帐户的结构、如何使用促销活动管理视图，以及受众管理、库存、报表、设置和资源功能的描述。
+瞭解您的DSP廣告帳戶如何建構、如何使用行銷活動管理檢視，以及對象管理、詳細目錄、報告、設定和資源功能的說明。
 
 >[!VIDEO](https://video.tv.adobe.com/v/339206)
