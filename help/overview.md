@@ -11,13 +11,13 @@ ht-degree: 25%
 
 # Adobe Advertising 教程
 
-這些教學影片，以及 [檔案](https://experienceleague.adobe.com/docs/advertising-cloud.html)，將協助您以前所未有的速度使用Adobe廣告來獲得客戶分析。
+这些视频教程以及 [文档](https://experienceleague.adobe.com/docs/advertising-cloud.html)，将帮助您以前所未有的速度使用Adobe广告获取客户洞察。
 
-視訊可用於：
+视频可用于：
 
 * Advertising DSP
 
-* Advertising DSP和Advertising Search與其他Adobe Experience Cloud產品和服務的整合
+* Advertising DSP和Advertising Search与其他Adobe Experience Cloud产品和服务的集成
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content
