@@ -1,8 +1,11 @@
 ---
 title: 创建 [!DNL Analytics] 用于激活和报表的区段
 description: 了解如何使用AdobeAdvertising维度创建区段，以实现更简洁的报表和分析。
+level: Intermediate, Experienced
+topic: Integrations
+feature: Integration with Adobe Analytics
 exl-id: f797e982-e49d-4038-982e-f2635e56591b
-source-git-commit: c299b88f75a62194bd22b2d220ab525045f78ea7
+source-git-commit: ba393ccd33a5e05f2e557f1161c29fab4a03ef35
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
@@ -13,6 +16,6 @@ ht-degree: 0%
 
 *广告商使用[!DNL Adobe Analytics for Adobe Advertising]*
 
-了解如何使用AdobeAdvertising维度创建区段，以实现更简洁的报表和分析。
+了解如何使用Adobe Advertising维度创建区段，以实现更简洁的报表和分析。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33916)
