@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe Analytics创建Adobe广告功能板
-description: 了解用于创建适合实时营销活动监控的Adobe广告仪表板的技术
+title: 使用Adobe Analytics创建Adobe Advertising功能板
+description: 了解用于创建适合实时营销活动监测的Adobe Advertising功能板的技术
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -12,10 +12,10 @@ ht-degree: 0%
 
 ---
 
-# 使用Adobe Analytics创建Adobe广告功能板
+# 使用Adobe Analytics创建Adobe Advertising功能板
 
-*广告商使用[!DNL Adobe Analytics for Adobe Advertising]*
+*广告商与[!DNL Adobe Analytics for Adobe Advertising]*
 
-了解用于创建适合实时营销活动监控的Adobe广告仪表板的技术。
+了解用于创建适合实时营销活动监测的Adobe Advertising功能板的技术。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33922)

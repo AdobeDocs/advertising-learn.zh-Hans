@@ -1,5 +1,5 @@
 ---
-title: 如何为DSP创建标准展示投放位置
+title: 如何为DSP创建标准显示投放位置
 description: 了解如何创建标准展示投放位置。
 feature: DSP Placements
 exl-id: 5eb60b2b-e3c7-4faf-887c-f14a9c50d2b5

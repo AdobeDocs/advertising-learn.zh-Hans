@@ -24,15 +24,15 @@ ht-degree: 16%
    + [如何使用批量编辑工具编辑版面](/help/dsp/bulk-edit-placement-tools.md)
    + [如何批量上传第三方广告标记](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
-   + [简介 [!DNL Analytics for Advertising]](/help/integrations/analytics/intro-a4adc.md)
+   + [ [!DNL Analytics for Advertising]简介](/help/integrations/analytics/intro-a4adc.md)
    + [创建Adobe Advertising站点登入报表](/help/integrations/analytics/analytics-site-entry-a4adc.md)
-   + [创建 [!DNL Analytics] 激活和报表的区段](/help/integrations/analytics/analytics-segments-a4adc.md)
-   + [简介 [!DNL Analysis Workspace] 用于报表Adobe Advertising数据](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
-   + [使用 [!DNL Marketing Channels] 用于Adobe Advertising报表](/help/integrations/analytics/analytics-reporting-a4adc.md)
-   + [创建 [!DNL Analytics] 用于Adobe Advertising激活和报表的配置文件](/help/integrations/analytics/analytics-profiles-a4adc.md)
+   + [创建 [!DNL Analytics] 区段以供激活和报告](/help/integrations/analytics/analytics-segments-a4adc.md)
+   + [报表Adobe Advertising数据的 [!DNL Analysis Workspace] 简介](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
+   + [使用 [!DNL Marketing Channels] 进行Adobe Advertising报告](/help/integrations/analytics/analytics-reporting-a4adc.md)
+   + [创建 [!DNL Analytics] 配置文件以进行Adobe Advertising激活和报告](/help/integrations/analytics/analytics-profiles-a4adc.md)
    + [使用Adobe Analytics创建启动前促销活动分析](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [使用Adobe Analytics创建Adobe Advertising功能板](/help/integrations/analytics/analytics-dashboards-a4adc.md)
-   + [创建 [!DNL Analytics] 包含Adobe Advertising数据的自定义量度](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
+   + [使用Adobe Advertising数据创建 [!DNL Analytics] 自定义指标](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
 <!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)

@@ -1,6 +1,6 @@
 ---
-title: 简介 [!DNL Analysis Workspace] 用于报表Adobe广告数据
-description: 了解如何在Adobe Analytics中使用Adobe广告数据创建可视化报表 [!DNL Analysis Workspace].
+title: 报表Adobe Advertising数据的 [!DNL Analysis Workspace] 简介
+description: 了解如何在Adobe Analytics [!DNL Analysis Workspace]中使用Adobe Advertising数据创建可视化报表。
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 简介 [!DNL Analysis Workspace] 用于报表Adobe广告数据
+# 报表Adobe Advertising数据的[!DNL Analysis Workspace]简介
 
-了解如何在Adobe Analytics中使用Adobe广告数据创建可视化报表 [!DNL Analysis Workspace].
+了解如何在Adobe Analytics [!DNL Analysis Workspace]中使用Adobe Advertising数据创建可视化报表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33492)

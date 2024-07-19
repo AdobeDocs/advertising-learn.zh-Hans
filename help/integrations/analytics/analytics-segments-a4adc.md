@@ -1,6 +1,6 @@
 ---
-title: 创建 [!DNL Analytics] 用于激活和报表的区段
-description: 了解如何使用AdobeAdvertising维度创建区段，以实现更简洁的报表和分析。
+title: 创建 [!DNL Analytics] 区段以供激活和报告
+description: 了解如何使用Adobe Advertising维度创建区段，以实现更简洁的报表和分析。
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 ---
 
-# 创建 [!DNL Analytics] 用于激活和报表的区段
+# 创建[!DNL Analytics]区段以供激活和报告
 
-*广告商使用[!DNL Adobe Analytics for Adobe Advertising]*
+*广告商与[!DNL Adobe Analytics for Adobe Advertising]*
 
 了解如何使用Adobe Advertising维度创建区段，以实现更简洁的报表和分析。
 

@@ -5,8 +5,8 @@ source-wordcount: '22'
 ht-degree: 0%
 
 ---
-# AdobeAdvertising DSPTutorials
+# Adobe Advertising DSPTutorials
 
 这是有关DSP的视频页面的文件夹。
 
-**注意：面向客户的文档中未发布此页面。**
+**注意：此页面未在面向客户的文档中发布。**

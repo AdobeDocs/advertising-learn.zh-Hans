@@ -1,6 +1,6 @@
 ---
 title: 使用Adobe Analytics创建启动前促销活动分析
-description: 了解如何使用Adobe Analytics为启动Adobe Advertising付费媒体营销活动奠定基础。
+description: 了解如何使用Adobe Analytics为启动Adobe Advertising付费媒体促销活动奠定基础。
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 # 使用Adobe Analytics创建启动前促销活动分析
 
-*广告商使用[!DNL Adobe Analytics for Adobe Advertising]*
+*广告商与[!DNL Adobe Analytics for Adobe Advertising]*
 
-了解如何使用Adobe Analytics为启动Adobe广告付费媒体营销活动奠定基础。
+了解如何使用Adobe Analytics为启动Adobe Advertising付费媒体促销活动奠定基础。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33501)

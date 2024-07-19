@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe广告营销渠道进行报告
-description: 了解Adobe广告浏览进入和点进登入数据如何与Adobe Analytics配合使用 [!DNL Marketing Channels].
+title: 使用Adobe Advertising营销渠道进行报告
+description: 了解Adobe Advertising浏览进入和点进登入数据如何与Adobe Analytics [!DNL Marketing Channels]配合使用。
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 # 使用Adobe Advertising营销渠道进行报告
 
-*广告商使用[!DNL Adobe Analytics for Adobe Advertising]*
+*广告商与[!DNL Adobe Analytics for Adobe Advertising]*
 
-了解Adobe Advertising浏览进入和点进登入数据如何与Adobe Analytics配合使用 [!DNL Marketing Channels].
+了解Adobe Advertising浏览进入和点进登入数据如何与Adobe Analytics [!DNL Marketing Channels]配合使用。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33502)
