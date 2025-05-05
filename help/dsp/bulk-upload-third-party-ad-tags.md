@@ -14,4 +14,4 @@ ht-degree: 0%
 
 了解如何一次上传多个第三方广告标记。
 
->[!VIDEO](https://video.tv.adobe.com/v/339204)
+>[!VIDEO](https://video.tv.adobe.com/v/342172?captions=chi_hans)

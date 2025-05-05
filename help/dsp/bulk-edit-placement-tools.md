@@ -14,5 +14,5 @@ ht-degree: 0%
 
 了解如何在DSP中一次编辑多个投放位置的设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/339205)
+>[!VIDEO](https://video.tv.adobe.com/v/3412407?captions=chi_hans)
 

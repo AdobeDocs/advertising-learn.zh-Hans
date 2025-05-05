@@ -14,4 +14,4 @@ ht-degree: 0%
 
 了解如何为DSP营销活动创建包。
 
->[!VIDEO](https://video.tv.adobe.com/v/339257)
+>[!VIDEO](https://video.tv.adobe.com/v/3412425?captions=chi_hans)
