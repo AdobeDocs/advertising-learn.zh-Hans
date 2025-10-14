@@ -24,7 +24,7 @@ ht-degree: 16%
    + [如何使用批量编辑工具编辑版面](/help/dsp/bulk-edit-placement-tools.md)
    + [如何批量上传第三方广告标记](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
-   + [ [!DNL Analytics for Advertising]简介](/help/integrations/analytics/intro-a4adc.md)
+   + [&#x200B; [!DNL Analytics for Advertising]简介](/help/integrations/analytics/intro-a4adc.md)
    + [创建Adobe Advertising站点登入报表](/help/integrations/analytics/analytics-site-entry-a4adc.md)
    + [创建 [!DNL Analytics] 区段以供激活和报告](/help/integrations/analytics/analytics-segments-a4adc.md)
    + [报表Adobe Advertising数据的 [!DNL Analysis Workspace] 简介](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
