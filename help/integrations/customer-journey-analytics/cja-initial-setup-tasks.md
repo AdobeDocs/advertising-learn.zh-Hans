@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 在Analysis Workspace中创建包含要导出的指标的数据视图
 
->[!VIDEO](https://video.tv.adobe.com/v/3476733?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476766?captions=chi_hans&learn=on)
 
 >[!MORELIKETHIS]
 >
