@@ -23,7 +23,7 @@ ht-degree: 1%
 
 ### 概述
 
->[!VIDEO](https://video.tv.adobe.com/v/3476810)
+>[!VIDEO](https://video.tv.adobe.com/v/3476833?captions=chi_hans)
 
 ### 步骤1：在Customer Journey Analytics中设置位置帐户
 
@@ -53,7 +53,7 @@ ht-degree: 1%
 
 ### 步骤3：配置Adobe Advertising维度的持久性设置和派生字段
 
->[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476942?captions=chi_hans&learn=on)
 
 >[!MORELIKETHIS]
 >
