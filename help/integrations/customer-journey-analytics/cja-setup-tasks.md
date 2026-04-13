@@ -6,7 +6,7 @@ topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: true
 exl-id: 1d9ef24f-02bf-4260-9d16-24580cd1c7a3
-source-git-commit: b20cca5dc10b28e73348cdfac178555a951a0203
+source-git-commit: dce2767431ff07c573661fada5a5e4edeb95ea82
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ### 概述
 
->[!VIDEO](https://video.tv.adobe.com/v/3476833?captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3476810)
 
 ### 步骤1：在Customer Journey Analytics中设置位置帐户
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising与Customer Journey Analytics之间的集成概述](https://experienceleague.adobe.com/zh-hans/docs/advertising/integrations/customer-journey-analytics/overview)
+>* [Adobe Advertising与Customer Journey Analytics之间的集成概述](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
 
 ## 在Customer Journey Analytics中查看Adobe Advertising促销活动数据的步骤
 
@@ -53,8 +53,8 @@ ht-degree: 0%
 
 ### 步骤3：配置Adobe Advertising维度的持久性设置和派生字段
 
->[!VIDEO](https://video.tv.adobe.com/v/3476942?captions=chi_hans&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
 
 >[!MORELIKETHIS]
 >
->* [已编写文档](https://experienceleague.adobe.com/zh-hans/docs/advertising/integrations/customer-journey-analytics/overview)。
+>* [已编写文档](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)。
