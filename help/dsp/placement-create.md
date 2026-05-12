@@ -26,4 +26,4 @@ ht-degree: 0%
 
 了解如何为DSP营销活动创建标准展示投放位置。
 
->[!VIDEO](https://video.tv.adobe.com/v/340454)
+>[!VIDEO](https://video.tv.adobe.com/v/344997?captions=chi_hans)
