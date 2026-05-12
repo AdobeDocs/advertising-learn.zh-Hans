@@ -46,7 +46,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising与Customer Journey Analytics之间的集成概述](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
+>* [Adobe Advertising与Customer Journey Analytics之间的集成概述](https://experienceleague.adobe.com/zh-hans/docs/advertising/integrations/customer-journey-analytics/overview)
 
 ## 在Customer Journey Analytics中查看Adobe Advertising促销活动数据的步骤
 
@@ -68,4 +68,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [已编写文档](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)。
+>* [已编写文档](https://experienceleague.adobe.com/zh-hans/docs/advertising/integrations/customer-journey-analytics/overview)。
