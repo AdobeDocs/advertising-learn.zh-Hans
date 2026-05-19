@@ -5,9 +5,9 @@ breadcrumb-title: Advertising 教程
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: b20cca5dc10b28e73348cdfac178555a951a0203
+source-git-commit: 796ab0255b9fa1db4a3bf0e19eb9642224788542
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '108'
 ht-degree: 16%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 16%
    + [如何使用批量编辑工具编辑版面](/help/dsp/bulk-edit-placement-tools.md)
    + [如何批量上传第三方广告标记](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
-   + [&#x200B; [!DNL Analytics for Advertising]简介](/help/integrations/analytics/intro-a4adc.md)
+   + [ [!DNL Analytics for Advertising]简介](/help/integrations/analytics/intro-a4adc.md)
    + [创建Adobe Advertising站点登入报表](/help/integrations/analytics/analytics-site-entry-a4adc.md)
    + [创建 [!DNL Analytics] 区段以供激活和报告](/help/integrations/analytics/analytics-segments-a4adc.md)
    + [报告Adobe Advertising数据的 [!DNL Analysis Workspace] 简介](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
@@ -33,7 +33,6 @@ ht-degree: 16%
    + [使用Adobe Analytics创建启动前促销活动分析](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [使用Adobe Analytics创建Adobe Advertising功能板](/help/integrations/analytics/analytics-dashboards-a4adc.md)
    + [使用Adobe Advertising数据创建 [!DNL Analytics] 自定义指标](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
-+ {hide-from-toc}[Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-setup-tasks.md)
 
 <!-- 
 Add to DSP chapter once the videos are complete:
