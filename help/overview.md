@@ -26,7 +26,7 @@ ht-degree: 14%
 
 # Adobe Advertising教程
 
-这些视频教程与[Adobe Advertising文档](https://experienceleague.adobe.com/en/docs/advertising)一起，介绍了如何使用Adobe Advertising更快地获得客户洞察。
+这些视频教程与[Adobe Advertising文档](https://experienceleague.adobe.com/zh-hans/docs/advertising)一起，介绍了如何使用Adobe Advertising更快地获得客户洞察。
 
 视频可用于：
 
