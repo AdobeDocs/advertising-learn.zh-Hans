@@ -5,15 +5,15 @@ breadcrumb-title: Advertising 教程
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: 796ab0255b9fa1db4a3bf0e19eb9642224788542
+source-git-commit: 5f04bcf2370017d8c9674e780a4fc5a35e6dddbe
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 16%
+ht-degree: 13%
 
 ---
 
 
-# Adobe Advertising 教程 {#tutorials}
+# Adobe Advertising教程 {#tutorials}
 
 + [概述](overview.md)
 + DSP {#dsp}
@@ -24,7 +24,7 @@ ht-degree: 16%
    + [如何使用批量编辑工具编辑版面](/help/dsp/bulk-edit-placement-tools.md)
    + [如何批量上传第三方广告标记](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
-   + [&#x200B; [!DNL Analytics for Advertising]简介](/help/integrations/analytics/intro-a4adc.md)
+   + [ [!DNL Analytics for Advertising]简介](/help/integrations/analytics/intro-a4adc.md)
    + [创建Adobe Advertising站点登入报表](/help/integrations/analytics/analytics-site-entry-a4adc.md)
    + [创建 [!DNL Analytics] 区段以供激活和报告](/help/integrations/analytics/analytics-segments-a4adc.md)
    + [报告Adobe Advertising数据的 [!DNL Analysis Workspace] 简介](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
