@@ -33,4 +33,4 @@ ht-degree: 0%
 
 了解如何构建DSP广告帐户、如何使用营销活动管理视图，以及有关受众管理、库存管理、报表、管理设置和费用以及跟踪资源功能的信息。
 
->[!VIDEO](https://video.tv.adobe.com/v/339206)
+>[!VIDEO](https://video.tv.adobe.com/v/3412413?captions=chi_hans)

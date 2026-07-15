@@ -31,4 +31,4 @@ ht-degree: 0%
 
 了解Advertising DSP、它在Adobe Experience Cloud中的角色，以及与Adobe Analytics和其他服务的集成如何使您的媒体营销活动受益。
 
->[!VIDEO](https://video.tv.adobe.com/v/339200)
+>[!VIDEO](https://video.tv.adobe.com/v/3412419?captions=chi_hans)
