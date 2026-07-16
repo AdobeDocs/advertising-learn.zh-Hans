@@ -1,5 +1,5 @@
 ---
-title: Adobe Advertising 教程
+title: Adobe Advertising教程
 description: Adobe Advertising 的视频和教程集。
 cloud: Experience Cloud
 product: advertising cloud
@@ -17,16 +17,16 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 64
-ht-degree: 23%
+source-wordcount: 61
+ht-degree: 14%
 
 ---
 
-# Adobe Advertising 教程
+# Adobe Advertising教程
 
-这些视频教程以及[Adobe Advertising文档](https://experienceleague.adobe.com/zh-hans/docs/advertising)将帮助您使用Adobe Advertising比以往更快地获得客户洞察。
+这些视频教程与[Adobe Advertising文档](https://experienceleague.adobe.com/zh-hans/docs/advertising)一起，介绍了如何使用Adobe Advertising更快地获得客户洞察。
 
 视频可用于：
 

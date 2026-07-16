@@ -22,15 +22,15 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 48
+source-wordcount: 53
 ht-degree: 0%
 
 ---
 
 # 帐户结构和用户界面
 
-了解如何构建DSP广告帐户、如何使用营销活动管理视图，以及受众管理、清单、报表、设置和资源功能的描述。
+了解如何构建DSP广告帐户、如何使用营销活动管理视图，以及有关受众管理、库存管理、报表、管理设置和费用以及跟踪资源功能的信息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412413?captions=chi_hans)

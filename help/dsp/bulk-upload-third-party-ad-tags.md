@@ -1,5 +1,5 @@
 ---
-title: 如何为DSP批量上传第三方广告标记
+title: 如何批量上传DSP的第三方广告标记
 description: 了解如何一次上传多个第三方广告标记。
 feature: DSP Ads
 exl-id: 1681440a-4b20-4819-a649-8754a2d143bc
@@ -15,7 +15,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: 26d6ac3f597af84d7d7715314772c020fb7f6c13
 workflow-type: tm+mt
 source-wordcount: 42
 ht-degree: 0%

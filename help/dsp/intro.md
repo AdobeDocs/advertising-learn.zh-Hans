@@ -20,15 +20,15 @@ topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 56
+source-wordcount: 47
 ht-degree: 0%
 
 ---
 
 # Adobe Advertising DSP简介
 
-了解Advertising DSP，包括它如何适应Adobe Experience Cloud、可为广告商做什么，以及与Adobe Analytics和其他服务的集成如何使您的媒体营销活动受益。
+了解Advertising DSP、它在Adobe Experience Cloud中的角色，以及与Adobe Analytics和其他服务的集成如何使您的媒体营销活动受益。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412419?captions=chi_hans)

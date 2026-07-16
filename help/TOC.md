@@ -5,15 +5,15 @@ breadcrumb-title: Advertising 教程
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: 796ab0255b9fa1db4a3bf0e19eb9642224788542
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 16%
+ht-degree: 13%
 
 ---
 
 
-# Adobe Advertising 教程 {#tutorials}
+# Adobe Advertising教程 {#tutorials}
 
 + [概述](overview.md)
 + DSP {#dsp}
@@ -36,9 +36,9 @@ ht-degree: 16%
 
 <!-- 
 Add to DSP chapter once the videos are complete:
-  + [How to Create a Placement](/help/dsp/placement-create.md)
-  + [Placement Targeting Capabilities](/help/dsp/placement-targeting.md)
-  + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)
+  + [How to create a placement](/help/dsp/placement-create.md)
+  + [Placement targeting capabilities](/help/dsp/placement-targeting.md)
+  + [Audience libraries and applying behavioral targeting](/help/dsp/audience-libraries.md)
 -->
 
 <!-- If I move the "Analytics for Advertising chapter into a larger Integrations chapter, then I'll need to set up redirects by copying a CSV file into this repo and populating it for those legacy file names. -->
