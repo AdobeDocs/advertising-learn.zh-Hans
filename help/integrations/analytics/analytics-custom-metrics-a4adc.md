@@ -34,4 +34,4 @@ ht-degree: 0%
 
 确定当您在Adobe Analytics中使用Adobe Advertising数据时要创建的自定义量度。
 
->[!VIDEO](https://video.tv.adobe.com/v/33919)
+>[!VIDEO](https://video.tv.adobe.com/v/3506493?captions=chi_hans)

@@ -37,4 +37,4 @@ ht-degree: 0%
 
 了解如何使用Adobe Advertising维度创建区段，以改进报表和分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/33916)
+>[!VIDEO](https://video.tv.adobe.com/v/3506465?captions=chi_hans)

@@ -34,4 +34,4 @@ ht-degree: 0%
 
 了解用于创建适合实时监控营销活动的Adobe Advertising功能板的技术。
 
->[!VIDEO](https://video.tv.adobe.com/v/33922)
+>[!VIDEO](https://video.tv.adobe.com/v/3506519?captions=chi_hans)
