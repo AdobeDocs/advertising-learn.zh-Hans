@@ -32,4 +32,4 @@ ht-degree: 0%
 
 了解Adobe Advertising与Adobe Analytics之间集成的好处，包括它解决的客户问题。
 
->[!VIDEO](https://video.tv.adobe.com/v/33491)
+>[!VIDEO](https://video.tv.adobe.com/v/3506556?captions=chi_hans)

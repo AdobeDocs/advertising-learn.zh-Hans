@@ -37,4 +37,4 @@ ht-degree: 0%
 
 了解Adobe Advertising浏览进入和点进登入数据如何与Adobe Analytics [!DNL Marketing Channels]集成。
 
->[!VIDEO](https://video.tv.adobe.com/v/33502)
+>[!VIDEO](https://video.tv.adobe.com/v/3506654?captions=chi_hans)

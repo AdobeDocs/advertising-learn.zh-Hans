@@ -37,4 +37,4 @@ ht-degree: 0%
 
 了解如何使用Adobe Analytics为Adobe Advertising再营销创建站点重定向池。
 
->[!VIDEO](https://video.tv.adobe.com/v/33503)
+>[!VIDEO](https://video.tv.adobe.com/v/3506674?captions=chi_hans)
